@@ -1,0 +1,142 @@
+
+import sys
+
+# User Database
+users = []
+
+# Weather Database
+weather = {
+    'January': 'Cold, Avg: 40°F-60°F',
+    'February': 'Cold, Avg: 45°F-65°F',
+    # Add other months...
+}
+
+# Events Database
+events = [
+    {'name': 'Las Vegas Marathon', 'date': 'November 12, 2024'},
+    {'name': 'CES Conference', 'date': 'January 9-12, 2025'}
+    # Add more events...
+]
+
+# Airport Statistics
+airport_stats = {
+    'arrivals': 4200000,
+    'departures': 4100000,
+    'cargo_tonnage': 500000,
+    'runways': 4,
+}
+
+# Clark County Room Inventory
+room_inventory = {
+    'total_rooms': 150000,
+    'available_rooms': 145000,
+}
+
+# Clark County Meeting Space Inventory
+meeting_space = {
+    'total_space_sqft': 12000000,
+    'available_space_sqft': 11800000,
+}
+
+# Function to handle user administration
+def user_admin():
+    print("\n--- User Administration ---")
+    print("1. Add User")
+    print("2. Remove User")
+    print("3. List Users")
+    print("4. Back to Main Menu")
+
+    choice = input("Select an option: ")
+
+    if choice == '1':
+        username = input("Enter new user's name: ")
+        users.append(username)
+        print(f"User {username} added.")
+    elif choice == '2':
+        username = input("Enter the user's name to remove: ")
+        if username in users:
+            users.remove(username)
+            print(f"User {username} removed.")
+        else:
+            print(f"User {username} not found.")
+    elif choice == '3':
+        print("\nCurrent Users:")
+        for user in users:
+            print(f"- {user}")
+    elif choice == '4':
+        return
+    else:
+        print("Invalid option. Try again.")
+
+    user_admin()
+
+# Function to handle local weather
+def show_weather():
+    print("\n--- Monthly Local Weather ---")
+    for month, forecast in weather.items():
+        print(f"{month}: {forecast}")
+    input("\nPress Enter to go back to the main menu...")
+
+# Function to handle events database
+def events_db():
+    print("\n--- Las Vegas Events ---")
+    for event in events:
+        print(f"{event['name']} on {event['date']}")
+    input("\nPress Enter to go back to the main menu...")
+
+# Function to show airport statistics
+def airport_stats_func():
+    print("\n--- Las Vegas McCarran Airport Statistics ---")
+    for stat, value in airport_stats.items():
+        print(f"{stat.capitalize()}: {value}")
+    input("\nPress Enter to go back to the main menu...")
+
+# Function to show Clark County room inventory
+def show_room_inventory():
+    print("\n--- Clark County Room Inventory ---")
+    for stat, value in room_inventory.items():
+        print(f"{stat.replace('_', ' ').capitalize()}: {value}")
+    input("\nPress Enter to go back to the main menu...")
+
+# Function to show Clark County meeting space
+def show_meeting_space():
+    print("\n--- Clark County Meeting Space ---")
+    for stat, value in meeting_space.items():
+        print(f"{stat.replace('_', ' ').capitalize()}: {value}")
+    input("\nPress Enter to go back to the main menu...")
+
+# Main Menu
+def main_menu():
+    while True:
+        print("\n--- Las Vegas Travel Planning System ---")
+        print("1. User Administration")
+        print("2. Monthly Local Weather")
+        print("3. Las Vegas Events Database")
+        print("4. Airport Statistics")
+        print("5. Clark County Room Inventory")
+        print("6. Clark County Meeting Space Inventory")
+        print("7. Exit")
+
+        choice = input("Select an option: ")
+
+        if choice == '1':
+            user_admin()
+        elif choice == '2':
+            show_weather()
+        elif choice == '3':
+            events_db()
+        elif choice == '4':
+            airport_stats_func()
+        elif choice == '5':
+            show_room_inventory()
+        elif choice == '6':
+            show_meeting_space()
+        elif choice == '7':
+            print("Exiting the system. Goodbye!")
+            sys.exit()
+        else:
+            print("Invalid option. Try again.")
+
+# Run the program
+if __name__ == '__main__':
+    main_menu()
