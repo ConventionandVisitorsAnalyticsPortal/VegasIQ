@@ -1,0 +1,97 @@
+import pandas as pd  # Import the Pandas library for data manipulation
+
+class RoomInventory:
+    def __init__(self):
+        # Use pandas to read the CSV file and load it into a DataFrame
+        self.hotel_df = pd.read_csv("/workspaces/VegasIQ/Ola/RoomInventory/Clark_County_Room_Inventory_Dec_2023.csv")  # Load the data directly from the CSV file
+
+    def display_inventory(self):
+        pd.set_option('display.max_rows', None)
+        pd.set_option('display.max_columns', None)
+        pd.set_option('display.expand_frame_repr', False)
+        pd.set_option('display.max_colwidth', None)  # Set max column width to avoid truncation
+        print(self.hotel_df[['Property Name', 'Address', 'Rooms']])
+
+    def search_hotel(self, hotel_name):
+        # Search for the hotel by name using a helper function
+        result = self.case_insensitive_search(hotel_name)
+        if not result.empty:
+            print("Hotel Search Results:")
+            print(result[['Property Count', 'Property Name', 'Address', 'Phone', 'Rooms']])
+        else:
+            print("No hotel found with that name.")
+
+    def case_insensitive_search(self, hotel_name):
+        # Perform a case-insensitive search for the hotel name
+        return self.hotel_df[self.hotel_df['Property Name'].str.contains(hotel_name, case=False, na=False)]
+
+    def check_room_availability(self, hotel_name, rooms_needed):
+        # Search for hotel
+        hotel = self.case_insensitive_search(hotel_name)
+        
+        if hotel.empty:
+            print(f"No hotel found with name: {hotel_name}")
+        else:
+            # Check room inventory availability, ensuring 'Rooms' is a numerical type
+            available_rooms = hotel['Rooms'].values[0]
+            if int(available_rooms) >= rooms_needed:
+                print(f"Rooms available in {hotel_name}: {available_rooms}")
+                print("Reservation can be made.")
+            else:
+                print(f"Not enough rooms available in {hotel_name}. Needed: {rooms_needed}, Available: {available_rooms}")
+
+    def generate_room_inventory_report(self):
+        # Generate a summary report of total rooms available and average rooms per property
+        total_rooms = self.hotel_df['Rooms'].sum()
+        average_rooms = self.hotel_df['Rooms'].mean()
+        print("Room Inventory Summary Report:")
+        print(f"Total number of rooms available: {total_rooms}")
+        print(f"Average number of rooms per property: {average_rooms:.2f}")
+
+        # Display the top 5 properties with the most rooms
+        top_properties = self.hotel_df.nlargest(5, 'Rooms')
+        print("Top 5 Properties with Most Rooms:")
+        print(top_properties[['Property Count', 'Property Name', 'Rooms']])
+
+# Main menu function to display options and link to room inventory functions
+def main_menu():
+    # Initialize the RoomInventory class
+    room_inventory = RoomInventory()
+
+    while True:
+        print("Room Inventory Main Menu")
+        print("1. Display Room Inventory")
+        print("2. Search for a Hotel")
+        print("3. Check Room Availability")
+        print("4. Generate Room Inventory Report")
+        print("5. Exit")
+
+        try:
+            menu_input = int(input("Please enter menu selection (1 - 5): "))
+        except ValueError:
+            print("Invalid Entry. Please enter a number between 1 and 5.")
+            continue
+
+        if menu_input == 1:
+            room_inventory.display_inventory()
+        elif menu_input == 2:
+            hotel_name = input("Enter hotel name to search: ").strip()
+            room_inventory.search_hotel(hotel_name)
+        elif menu_input == 3:
+            hotel_name = input("Enter hotel name to check room availability: ").strip()
+            try:
+                rooms_needed = int(input("Enter number of rooms needed: "))
+                room_inventory.check_room_availability(hotel_name, rooms_needed)
+            except ValueError:
+                print("Invalid Entry. Please enter a numerical value for rooms needed.")
+        elif menu_input == 4:
+            room_inventory.generate_room_inventory_report()
+        elif menu_input == 5:
+            print("Exiting the Room Inventory Dashboard.")
+            break
+        else:
+            print("Invalid Entry. Please enter a number between 1 and 5.")
+
+# Run the main menu
+if __name__ == "__main__":
+    main_menu()
