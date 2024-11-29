@@ -1,0 +1,305 @@
+﻿Property Count,Property Name,Address,Phone,Rooms
+1,Ahern Luxury Boutique Hotel,"300 W Sahara Ave, 89102",(725) 214-4800,203
+2,Alexis Park All Suite Resort,"375 E Harmon Ave, 89169",(702) 796-3300,496
+3,Aliante Casino + Hotel + Spa,"7300 Aliante Pkwy, 89084",(702) 692-7777,202
+4,Aloft Henderson,"2631 St Rose Pkwy, 89052",(725) 239-2050,136
+5,American Inn Motel,"3325 E Fremont St, 89104",(702) 457-0422,28
+6,ARIA Resort & Casino,"3730 Las Vegas Blvd S, 89158",(702) 590-7111,"4,002"
+7,Arizona Charlie's Boulder,"4575 Boulder Hwy, 89121",(702) 951-9000,303
+8,Arizona Charlie's Decatur,"740 S Decatur Blvd, 89107",(702) 258-5200,259
+9,Aviation Inn,"5330 E craig Rd, 89115",(702) 643-6111,50
+10,Baymont Inn & Suites by Wyndham Las Vegas South Strip,"55 E Robindale Rd, 89123",(702) 273-2500,110
+11,Bellagio,"3600 Las Vegas Blvd S, 89109",(702) 693-7111,"3,933"
+12,Bent Inn & Pub,"207 N list St, 89101",(725) 305-9458,33
+13,"The Berkley, Las Vegas","8280 Dean Martin Dr, 89139",(702) 224-7400,395
+14,Best Western McCarran Inn,"4970 Paradise Rd, 89119",(702) 798-5530,100
+15,Best Western Plus Casino Royale Center Strip,"3411 Las Vegas Blvd S, 89109",(702) 737-3500,152
+16,Best Western Plus Henderson Hotel,"1553 N Boulder Hwy, 89011",(702) 564-9200,108
+17,Best Western Plus Las Vegas South Henderson,"3041 st Rose Pkwy, 89052",(702) 568-0027,99
+18,Best Western Plus Las Vegas West,"8669 W Sahara Ave, 89117",(702) 256-3766,82
+19,Best Western Plus North Las Vegas Inn & Suites,"4540 Donovan Way, 89081",(702) 649-3000,72
+20,Blue Sky Motel,"2 spirit Mtn Ln, 89039",(725) 600-6793,9
+21,Bluegreen Club 36 *,"372 E Tropicana Ave, 89169",(702) 856-2900,120
+22,Boby Motel,"2100 S Boulder Hwy, 89002",(702) 565-9711,20
+23,Boulder Station Hotel-Casino,"4111 Boulder Hwy, 89121",(702) 432-7777,299
+24,Bridger Inn Hotel Downtown,"301 S Main st, 89101",(702) 385-5560,77
+25,Budget Suites of America - Las Vegas Blvd,"8440 Las Vegas Blvd S, 89123",(702) 837-2000,317
+26,Budget Suites of America - Rancho,"2219 N Rancho Dr, 89130",(702) 638-1800,704
+27,Budget Suites of America - Tropicana,"3655 W Tropicana Ave, 89103",(702) 739-1000,480
+28,Budget Suites of America - Wynn,"4205 W Tropicana Ave, 89103",(702) 889-1700,414
+29,Bungalows Hostel,"1236 S Las Vegas Blvd, 89104",(702) 380-6902,22
+30,BV Motel,"115 W Gaviland st, 89046",(702) 297-6306,17
+31,Cabana Suites,"651 Ogden Ave, 89101",(702) 385-5200,63
+32,Caesars Palace,"3570 Las Vegas Blvd S, 89109",(702) 731-7110,"3,794"
+33,California Hotel and Casino,"12 E Ogden Ave, 89101",(702) 385-1222,779
+34,Cannery Casino & Hotel,"2121 E craig Rd, 89030",(702) 507-5700,200
+35,Carriage House Deluxe Suite Hotel *,"105 E Harmon Ave, 89109",(702) 798-1020,30
+36,Casa Blanca Hotel,"2401 Las Vegas Blvd N, 89030",(702) 642-2115,63
+37,Circa Resort & Casino,"8 Fremont St, 89101",(702) 247-2258,512
+38,Circus Circus Las Vegas,"2880 Las Vegas Blvd S, 89109",(702) 734-0410,"3,763"
+39,City Center Motel,"700 E Fremont st, 89101",(702) 382-4766,57
+40,Club de Soleil *,"5625 W Tropicana Ave, 89103",(702) 507-9400,78
+41,Comfort Inn & Suites - Henderson,"475 Marks st, 89014",(702) 387-6500,127
+42,Comfort Inn & Suites - Las Vegas Nellis,"4375 E craig Rd, 89115",(702) 982-6700,81
+43,Conference Center of Las Vegas,"6590 Bermuda Rd, 89119",(702) 970-2000,48
+44,The Cosmopolitan of Las Vegas,"3708 Las Vegas Blvd S, 89109",(702) 698-7000,"3,033"
+45,Cottonwood Cove Resort & Marina,"10000 Cottonwood Cove Rd, 89046",(702) 297-1464,24
+46,Courtyard Las Vegas Convention Center,"3275 Paradise Rd, 89109",(702) 791-3600,149
+47,Courtyard Las Vegas Henderson/Green Valley,"2800 N Green Valley Pkwy, 89014",(702) 434-4700,155
+48,Courtyard Las Vegas South,"5845 S Dean Martin Dr, 89118",(702) 895-7519,158
+49,The Cromwell Las Vegas,"3595 Las Vegas Blvd S, 89109",(702) 777-3777,188
+50,Crown Motel,"2855 E Fremont st, 89104",(702) 998-1316,17
+51,the D Las Vegas,"301 Fremont st, 89101",(702) 388-2400,629
+52,Delano Las Vegas,"3940 Las Vegas Blvd S, 89119",(702) 632-9444,"1,117"
+53,Desert Hills Motel,"2121 Fremont st, 89101",(702) 309-5891,31
+54,Desert Moon Motel,"1701 E Fremont st, 89101",(702) 382-5535,31
+55,Desert Rose Resort,"5051 Duke Ellington way, 89119",(702) 739-7000,284
+56,Desert Star Motel,"1210 Las Vegas Blvd S, 89104",(702) 382-3450,41
+57,DoubleTree by Hilton Las Vegas Airport,"7250 Pollock Dr, 89119",(702) 948-4000,190
+58,DoubleTree by Hilton Las Vegas East Flamingo,"4055 Palos Verdes st, 89119",(702) 473-6400,129
+59,Downtown Grand Hotel & Casino,"206 N 3rd st, 89101",(702) 719-5100,"1,124"
+60,Downtowner Boutique Hotel,"129 N 8th st, 89101",(702) 553-2553,125
+61,Durango Casino & Resort,"6915 Durango Dr, 89148",(702) 567-7777,211
+62,Economy Motel,"1605 Fremont st, 89101",(702) 384-1908,16
+63,El Cortez Hotel & Casino,"600 E Fremont st, 89101",(702) 385-5200,300
+64,El Rey Motel,"430 S Hwy 95, 89046",(702) 297-1144,16
+65,element Las Vegas Summerlin,"10555 Discovery Dr, 89135",(702) 589-2000,123
+66,"Ellis Island Hotel, Casino & Brewery","4250 Koval Ln, 89109",(702) 794-0888,289
+67,Embassy Suites by Hilton Convention Center,"3600 Paradise Rd, 89169",(702) 893-8000,286
+68,Embassy Suites by Hilton Las Vegas,"4315 University Center Dr, 89119",(702) 795-2800,220
+69,Emerald Suites - Cameron,"4777 Cameron st, 89103",(702) 365-5500,96
+70,Emerald Suites - Convention Center,"3684 Paradise Rd, 89169",(702) 699-7000,359
+71,Emerald Suites - South Las Vegas Blvd,"9145 Las Vegas Blvd S, 89123",(702) 948-9999,388
+72,Encore at Wynn Las Vegas,"3131 Las Vegas Blvd S, 89109",(702) 770-8000,"2,034"
+73,The ENGLiSH Hotel,"921 S Main st, 89101",(725) 444-6835,74
+74,Envi U District,"3825 Cambridge Ave, 89119",(702) 792-9191,230
+75,Excalibur Hotel and Casino,"3850 Las Vegas Blvd S, 89109",(702) 597-7777,"3,981"
+76,Crown Motel,"2855 E Fremont st, 89104",(702) 998-1316,17
+77,the D Las Vegas,"301 Fremont st, 89101",(702) 388-2400,629
+78,Delano Las Vegas,"3940 Las Vegas Blvd S, 89119",(702) 632-9444,"1,117"
+79,Desert Hills Motel,"2121 Fremont st, 89101",(702) 309-5891,31
+80,Desert Moon Motel,"1701 E Fremont st, 89101",(702) 382-5535,31
+81,Desert Rose Resort,"5051 Duke Ellington Way, 89119",(702) 739-7000,284
+82,Desert Star Motel,"1210 Las Vegas Blvd S, 89104",(702) 382-3450,41
+83,DoubleTree by Hilton Las Vegas Airport,"7250 Pollock Dr, 89119",(702) 948-4000,190
+84,DoubleTree by Hilton Las Vegas East Flamingo,"4055 Palos Verdes st, 89119",(702) 473-6400,129
+85,Downtown Grand Hotel & Casino,"206 N 3rd st, 89101",(702) 719-5100,"1,124"
+86,Downtowner Boutique Hotel,"129 N 8th st, 89101",(702) 553-2553,125
+87,Durango Casino & Resort,"6915 Durango Dr, 89148",(702) 567-7777,211
+88,Economy Motel,"1605 Fremont st, 89101",(702) 384-1908,16
+89,El Cortez Hotel & Casino,"600 E Fremont st, 89101",(702) 385-5200,300
+90,El Rey Motel,"430 S Hwy 95, 89046",(702) 297-1144,16
+91,element Las Vegas Summerlin,"10555 Discovery Dr, 89135",(702) 589-2000,123
+92,"Ellis Island Hotel, Casino & Brewery","4250 Koval Ln, 89109",(702) 794-0888,289
+93,Embassy Suites by Hilton Convention Center,"3600 Paradise Rd, 89169",(702) 893-8000,286
+94,Embassy Suites by Hilton Las Vegas,"4315 University Center Dr, 89119",(702) 795-2800,220
+95,Emerald Suites - Cameron,"4777 Cameron st, 89103",(702) 365-5500,96
+96,Emerald Suites - Convention Center,"3684 Paradise Rd, 89169",(702) 699-7000,359
+97,Emerald Suites - South Las Vegas Blvd,"9145 Las Vegas Blvd S, 89123",(702) 948-9999,388
+98,Encore at Wynn Las Vegas,"3131 Las Vegas Blvd S, 89109",(702) 770-8000,"2,034"
+99,The ENGLiSH Hotel,"921 S Main st, 89101",(725) 444-6835,74
+100,Envi U District,"3825 Cambridge Ave, 89119",(702) 792-9191,230
+101,Excalibur Hotel and Casino,"3850 Las Vegas Blvd S, 89109",(702) 597-7777,"3,981"
+102,Extended Stay America - Las Vegas - Midtown,"3045 S Maryland Pkwy, 89109",(702) 369-1414,124
+103,Extended Stay America East Flamingo,"1550 E Flamingo Rd, 89119",(702) 731-3111,125
+104,Extended Stay America Las Vegas - Valley View,"4270 S valley View Blvd, 89103",(702) 221-7600,176
+105,Fairfield Inn & Suites Las Vegas Airport South,"355 E Warm Springs Rd, 89119",(702) 916-2100,105
+106,Fairfield Inn & Suites Las Vegas Northwest,"5701 Sky Point Dr, 89130",(702) 466-1021,87
+107,Fairfield Inn & Suites Las Vegas South,"5775 S Dean Martin Dr, 89118",(702) 895-9810,141
+108,Fairfield Inn Las Vegas Convention Center,"3850 Paradise Rd, 89169",(702) 791-0899,128
+109,A Fisher's Inn,"3565 Boulder Hwy, 89121",(702) 457-3900,20
+110,Flamingo Las Vegas,"3555 Las Vegas Blvd S, 89109",(702) 733-3111,"3,446"
+111,Fontainebleau Las Vegas,"2777 S Las Vegas Blvd, 89109",(702) 678-7777,"3,644"
+112,Four Queens Hotel and Casino,"202 Fremont st, 89101",(702) 385-4011,694
+113,Four Seasons Hotel Las Vegas,"3960 Las Vegas Blvd S, 89119",(702) 632-5000,424
+114,Fremont Hotel and Casino,"200 Fremont st, 89101",(702) 385-3232,447
+115,Gatewood Motel,"3075 E Fremont st, 89104",(702) 457-3660,20
+116,Glendale Motel,"2300 E Glendale Blvd, 89025",(702) 864-2277,12
+117,Gold Coast Hotel and Casino,"4000 W Flamingo Rd, 89103",(702) 367-7111,705
+118,Golden Gate Hotel and Casino,"1 Fremont St, 89101",(702) 385-1906,122
+119,Golden Nugget,"129 E Fremont st, 89101",(702) 385-7111,"2,419"
+120,Green Valley Ranch Resort & Spa,"2300 Paseo Verde, 89052",(702) 617-7777,495
+121,Hampton Inn & Suites Las Vegas Airport,"6575 S Eastern Ave, 89119",(702) 647-8000,129
+122,Hampton Inn & Suites Las Vegas Convention Center,"755 Sierra Vista Dr, 89169",(725) 780-4100,150
+123,Hampton Inn & Suites Las Vegas Red Rock/Summerlin,"4280 S Grand Canyon Dr, 89147",(702) 227-3305,106
+124,Hampton Inn & Suites Las Vegas South,"3245 st Rose Pkwy, 89052",(702) 385-2200,133
+125,Hampton Inn & Suites Las Vegas-Henderson,"421 Astaire Dr, 89014",(702) 992-9292,99
+126,Hampton Inn Las Vegas North Speedway,52 E Craig R,,
+127,Hampton Inn Las Vegas Strip South,"7850 Giles st, 89123",(702) 936-8290,115
+128,Hampton Inn Las Vegas/Summerlin,"7100 Cascade valley ct, 89128",(702) 360-5700,127
+129,Hampton Inn Tropicana,"4975 S Dean Martin Dr, 89118",(702) 948-8100,322
+130,Harrah's Las Vegas,"3475 Las Vegas Blvd S, 89109",(702) 369-5000,"2,541"
+131,Hawthorn Suites by Wyndham,"910 S Boulder Hwy, 89015",(702) 568-7800,72
+132,Highland Inn Las Vegas,"8025 S Dean Martin Dr, 89139",(702) 896-4333,44
+133,Hilton Garden Inn Henderson,"1340 W Warm Spring Rd, 89014",(702) 322-9000,139
+134,Hilton Garden Inn Las Vegas City Center,"4655 Dean Martin Dr, 89103",(702) 262-1031,172
+135,Hilton Garden Inn Las Vegas Strip South,"7830 Las Vegas Blvd S, 89123",(702) 453-7830,155
+136,Hilton Grand Vacations at the Flamingo *,"3575 Las Vegas Blvd S, 89109",(702) 697-2900,42
+137,Hilton Grand Vacations Club Elara Center Strip Las Vegas,"80 E Harmon Ave, 89109",(702) 669-6700,"1,200"
+138,Hilton Grand Vacations on Paradise *,"455 Karen Ave, 89109",(702) 946-9210,200
+139,Hilton Grand Vacations on the Las Vegas Strip *,"2650 Las Vegas Blvd S, 89109",(702) 765-8300,425
+140,Hilton Lake Las Vegas Resort & Spa,"1610 Lake Las Vegas Pkwy, 89011",(702) 567-4700,349
+141,Hilton Vacation Club Cancun Resort Las Vegas *,"8335 Las Vegas Blvd S, 89123",(702) 614-6200,89
+142,Hilton Vacation Club Desert Retreat Las Vegas *,"5165 S Decatur Blvd, 89118",(702) 579-3600,30
+143,Hilton Vacation Club Polo Towers Las Vegas *,"3745 Las Vegas Blvd S, 89109",(702) 261-1000,166
+144,Hitchin' Post RV Park and Motel,"3640 Las Vegas Blvd N, 89115",(702) 644-1043,11
+145,Holiday Inn Club Vacations at Desert Club Resort *,"3950 Koval Ln, 89109",(702) 731-6100,308
+146,Holiday Inn Express & Suites Henderson South - Boulder City,"1530 Railroad Pass Casino Rd, 89002",(702) 701-7700,127
+147,Holiday Inn Express & Suites Las Vegas SW - Spring Valley,"6220 S Rainbow Blvd, 89118",(702) 871-4453,110
+148,Holiday Inn Express Hotel and Suites Henderson,"441 Astaire Dr, 89014",(702) 990-2323,101
+149,Holiday Inn Express Las Vegas South,"5760 Polaris Ave, 89118",(702) 736-0098,139
+150,Holiday Inn Express Nellis,"4035 N Nellis Blvd, 89115",(702) 644-5700,87
+151,Home2 Suites by Hilton Las Vegas Convention Center,"755 Sierra Vista Dr, 89169",(725) 780-4100,100
+152,Home2 Suites by Hilton Las Vegas North,"4365 E craig Rd, 89115",(702) 443-9900,91
+153,Home2 Suites by Hilton Las Vegas Northwest,"8906 W Deer Springs Way, 89149",(725) 977-8906,129
+154,Home2 Suites by Hilton Las Vegas Southwest 1-215 Curve,"8470 W Sunset Rd, 89113",(702) 907-9997,120
+155,Home2 Suites By Hilton Las Vegas Stadium District,"4940 Dean Martin Dr, 89118",(702) 891-0124,135
+156,Home2 Suites By Hilton Las Vegas Strip South,"7740 Las Vegas Blvd S, 89123",(702) 710-7740,120
+157,Homewood Suites by Hilton Henderson South Las Vegas,"10450 S Eastern Ave, 89052",(702) 450-1045,145
+158,Homewood Suites by Hilton Las Vegas Airport,"230 Hidden Well Rd, 89119",(702) 407-0075,147
+159,Homewood Suites by Hilton Las Vegas City Center,"4625 Dean Martin Dr, 89103",(702) 598-0101,158
+160,Hoover Dam Lodge,"US Hwy 93, 89005",(702) 293-5000,238
+161,Horseshoe Las Vegas,"3645 Las Vegas Blvd S, 89109",(702) 967-4111,"2,056"
+162,Hotel Apache at Binion's Gambling Hall,"128 E Fremont st, 89101",(702) 382-1600,82
+163,Hotel Galaxy,"5201 Dean Martin Dr, 89118",(702) 778-7600,128
+164,Hotel Jefe,"3227 Civic Center Dr, 89030",(702) 399-3297,82
+165,Howard Johnson by Wyndham Las Vegas near the Strip,"165 E Tropicana Ave, 89109",(702) 476-6500,295
+166,Hyatt Place Las Vegas,"4520 Paradise Rd, 89169",(702) 369-3366,202
+167,Hyatt Place Las Vegas at Silverton Village,"8380 Dean Martin Dr, 89139",(702) 575-6201,150
+168,"JW Marriott Las Vegas Resort, Spa & Golf","221 N Rampart Blvd, 89145",(702) 869-7777,548
+169,Kensington Suites,"2200 W Bonanza Rd, 89106",(702) 636-5100,192
+170,Kyle House Apts,"4815 Deckow Ln, 89169",(702) 795-4010,19
+171,La Palm Motel,"2512 E Fremont st, 89104",(702) 384-5874,44
+172,La Quinta Inn & Suites by Wyndham Las Vegas Airport South,"6560 Surrey st, 89119",(702) 518-5955,140
+173,La Quinta Inn & Suites by Wyndham Las Vegas Nellis,"4288 N Nellis Blvd, 89115",(702) 632-0229,59
+174,La Quinta Inn & Suites by Wyndham Las Vegas Red Rock,"9570 W Sahara Ave, 89117",(702) 243-0356,75
+175,La Quinta Inn & Suites by Wyndham Las Vegas Summerlin Tech,"7101 Cascade Valley Ct, 89128",(702) 360-1200,128
+176,Lake Mead Inn Henderson Motel,"85 W Lake Mead Pkwy, 89015",(702) 564-1712,58
+177,Las Vegas Marriott,"325 Convention Center Dr, 89109",(702) 650-2000,278
+178,Lexi Las Vegas,"1501 W Sahara Ave, 89102",(702) 214-4000,64
+179,The LINQ Hotel + Experience,"3535 Las Vegas Blvd S, 89109",(702) 731-3311,"2,236"
+180,Longhorn Hotel & Casino,"5288 Boulder Hwy, 89122",(702) 435-8888,150
+181,Luxor Hotel and Casino,"3900 Las Vegas Blvd S, 89119",(702) 262-4000,"4,400"
+182,M Resort Spa & Casino,"12300 Las Vegas Blvd S, 89044",(702) 797-1000,390
+183,"Main Street Station Casino, Brewery and Hotel","200 N Main st, 89101",(702) 387-1896,406
+184,Mandalay Bay Resort & Casino,"3950 Las Vegas Blvd S, 89119",(702) 632-7777,"3,209"
+185,Manor Suites,"7230 Las Vegas Blvd S, 89119",(702) 939-9000,258
+186,Mardi Gras Hotel and Casino,"3500 Paradise Rd, 89169",(702) 731-2020,309
+187,MGM Grand Hotel and Casino,"3799 Las Vegas Blvd S, 89109",(702) 891-1111,"4,997"
+188,The Mirage Hotel & Casino,"3400 Las Vegas Blvd S, 89109",(702) 791-7111,"3,044"
+189,Motel 6 - Boulder Highway,"4125 Boulder Hwy, 89121",(702) 457-8051,161
+190,Motel 6 - Las Vegas 1-15,"5085 S Dean Martin Dr, 89118",(702) 739-6747,139
+191,Motel 6 - Las Vegas Motor Speedway,"6585 Speedway Blvd, 89115",(702) 745-8448,100
+192,Motel 6 - Tropicana,"195 E Tropicana Ave, 89109",(702) 798-0728,306
+193,Mount Charleston Cabins,"5355 Kyle Canyon Rd, 89124",(702) 872-5408,17
+194,My Place Hotel-North Las Vegas,"1440 E craig Rd, 89081",(702) 750-9929,63
+195,Nellis Suites at Main Gate,"4555 Las Vegas Blvd N, 89115",(702) 946-9999,164
+196,New York-New York Hotel & Casino,"3790 Las Vegas Blvd S, 89109",(702) 740-6969,"2,024"
+197,Nirvana Hotel,"3961 Las Vegas Blvd S, 89119",(702) 333-0677,24
+198,Nobu Hotel at Caesars Palace,"3570 Las Vegas Blvd S, 89109",(702) 785-6677,182
+199,NoMad Las Vegas,"3772 Las Vegas Blvd S, 89109",(702) 730-7000,293
+200,North Shore Inn at Lake Mead,"520 N Moapa Valley Blvd, 89040",(702) 397-6000,43
+201,Oasis at Gold Spike,"217 Las Vegas Blvd N, 89101",(702) 768-9823,130
+202,The Orleans Hotel and Casino,"4500 W Tropicana, 89103",(702) 365-7111,"1,885"
+203,OYO Hotel & Casino Las Vegas,"115 E Tropicana Ave, 89109",(702) 739-9000,657
+204,OYO Hotel Gateway Las Vegas,"928 Las Vegas Blvd S, 89101",(702) 685-6800,44
+205,OYO Hotel Las Vegas Oasis,"1731 Las Vegas Blvd S, 89104",(702) 735-6494,25
+206,Palace Station Hotel Casino,"2411 W Sahara Ave, 89102",(702) 367-2411,575
+207,The Palazzo At The Venetian Resort Las Vegas,"3325 Las Vegas Blvd S, 89109",(702) 607-7777,"3,064"
+208,Palms Casino Resort,"4321 W Flamingo Rd, 89103",(702) 942-7777,766
+209,Palms Place Hotel and Spa,"4381 W Flamingo Rd, 89103",(702) 932-7777,599
+210,Paris Las Vegas,"3655 Las Vegas Blvd S, 89109",(702) 946-7000,"3,672"
+211,Park MGM Las Vegas,"3770 Las Vegas Blvd S, 89109",(702) 730-7777,"2,605"
+212,Perfect Inn,"3045 E Fremont st, 89104",(702) 457-7877,28
+213,Planet Hollywood Resort & Casino,"3667 Las Vegas Blvd S, 89109",(702) 785-5555,"2,496"
+214,The Platinum Hotel,"211 E Flamingo Rd, 89169",(702) 365-5000,237
+215,Plaza Hotel & Casino,"1 Main st, 89101",(702) 386-2110,995
+216,Railroad Pass Hotel and Casino,"1500 Railroad Pass Casino Rd, 89002",(702) 294-5000,120
+217,Red Rock Casino Resort Spa,"11011 W Charleston Blvd, 89135",(702) 797-7777,796
+218,Renaissance Las Vegas Hotel,"3400 Paradise Rd, 89169",(702) 784-5700,548
+219,Residence at Tropicana,"3890 Graphic Center Dr, 89118",(702) 507-9999,225
+220,Residence Inn Las Vegas Airport,"7690 Las Vegas Blvd S, 89123",(702) 407-1942,131
+221,Residence Inn Las Vegas Convention Center,"3225 Paradise Rd, 89109",(702) 796-9300,192
+222,Residence Inn Las Vegas Henderson/Green Valley,"2190 Olympic Ave, 89014",(702) 434-2700,126
+223,Residence Inn Las Vegas Hughes Center,"370 Hughes ctr Dr, 89169",(702) 650-0040,255
+224,Residence Inn Las Vegas South,"5875 S Dean Martin Dr, 89118",(702) 795-7378,160
+225,Residence Inn Las Vegas South/Henderson,"3225 Saint Rose Pkwy,",,
+226,Resorts World - Las Vegas,"3000 Las Vegas Blvd S, 89109",(702) 676-7000,"3,506"
+227,The Retreat on Charleston Peak,"2755 Kyle Canyon Rd, 89124",(702) 872-5500,62
+228,Rio Hotel & Casino,"3700 W Flamingo Rd, 89103",(702) 777-7777,"2,520"
+229,Roulette Motel,"2019 Fremont st, 89101",(702) 910-4637,26
+230,SAHARA Las Vegas,"2535 Las Vegas Blvd S, 89109",(702) 761-7000,"1,613"
+231,Sam's Town Hotel and Gambling Hall,"5111 Boulder Hwy, 89122",(702) 456-7777,645
+232,Santa Fe Station Hotel Casino,"4949 N Rancho Dr, 89130",(702) 658-4900,200
+233,"Serene, A Vegas Resort","455 E Harmon, 89169",(702) 369-2281,149
+234,Shalimar Hotel of Las Vegas,"1401 Las Vegas Blvd S, 89104",(702) 388-0301,100
+235,Siegel Select Convention Center Drive,"220 Convention Center Dr, 89109",(702) 735-4151,102
+236,Siegel Select Flamingo,"2530 E Flamingo Rd, 89121",(702) 650-9070,147
+237,Siegel Select Las Vegas Blvd,"7260 Las Vegas Blvd S, 89119",(702) 407-5300,155
+238,Siegel Slots & Suites,"5011 E craig Rd, 89115",(702) 644-6300,175
+239,Siegel Suites Boulder,"4823 Boulder Hwy, 89121",(702) 454-8969,212
+240,Siegel Suites Boulder 1 1,"3625 Boulder Hwy, 89121",(702) 431-1400,186
+241,Siegel Suites Boulder 1 1 1,"4240 Boulder Hwy, 89121",(702) 433-1788,126
+242,Siegel Suites Checkmate,"4735 Deckow Ln, 89169",(702) 904-8632,51
+243,Siegel Suites Craig,"5230 E craig Rd, 89115",(702) 644-3038,124
+244,Siegel Suites Swenson,"4055 University Center Dr, 89119",(702) 732-7678,330
+245,Siegel Suites Swenson 1 1,"4075 University Center Dr, 89119",(702) 732-7678,96
+246,Siegel Suites Twain,"455 E Twain Ave, 89169",(702) 733-8007,190
+247,Siegel Suites Twain 1 1 1,"454 E Twain Ave, 89169",(702) 369-1200,119
+248,Siegel Suites Twain IV,"446 E Twain Ave, 89169",(702) 735-0139,168
+249,Siena Suites Hotel,"6555 Boulder Hwy, 89122",(702) 648-2100,600
+250,The Signature at MGM Grand *,"145 E Harmon Ave, 89109",(702) 797-6000,730
+251,Silver Sevens Hotel & Casino,"4100 Paradise Rd, 89169",(702) 733-7000,328
+252,Silverton Casino Lodge,"3333 Blue Diamond Rd, 89139",(702) 263-7777,300
+253,Sin City Hostel,"1208 Las Vegas Blvd S, 89104",(702) 868-0222,8
+254,Skyline Hotel & Casino,"1741 N Boulder Hwy, 89011",(702) 565-7907,51
+255,Sonesta Select Las Vegas Summerlin,"1901 N Rainbow Blvd, 89108",(702) 646-4400,154
+256,Sonesta Simply Suites Las Vegas,"4034 S Paradise Rd, 89169",(702) 836-3660,276
+257,South Point Hotel Casino & Spa,"9777 Las Vegas Blvd S, 89183",(702) 796-7111,"2,163"
+258,Sportsman's Royal Manor,"5600 Boulder Hwy, 89122",(702) 458-7071,665
+259,SpringHill Suites Las Vegas Airport,"6590 S Decatur Blvd, 89118",(725) 712-0161,127
+260,SpringHill Suites Las Vegas Convention Center,"2989 Paradise Rd, 89109",(702) 433-5880,299
+261,SpringHill Suites Las Vegas Henderson,"1481 Paseo Verde Pkwy, 89012",(702) 270-0995,120
+262,SpringHill Suites Las Vegas North Speedway,"2910 E craig Rd, 89030",(702) 522-9200,93
+263,Starlite Motel,"1873 Las Vegas Blvd N, 89030",(702) 642-1750,32
+264,Staybridge Suites,"5735 Dean Martin Dr, 89118",(702) 259-2663,118
+265,Sterling Garden Hotel,"1808 E Fremont st, 89101",(702) 382-3990,50
+266,"The STRAT Hotel, Casino & Tower","2000 Las Vegas Blvd S, 89104",(702) 380-7777,"2,429"
+267,The Suites - Indios,"4625 Boulder Hwy, 89121",(702) 454-4625,280
+268,The Suites - Nellis,"4855 Boulder Hwy, 89121",(702) 433-3644,839
+269,Suncoast Hotel and Casino,"9090 Alta Dr, 89145",(702) 636-7111,427
+270,Sunrise Inn,"910 E Cheyenne Ave, 89030",(702) 399-1500,59
+271,Sunset Motel,"6000 Boulder Hwy, 89122",(702) 451-2445,32
+272,Sunset Station Hotel Casino,"1301 W Sunset Rd, 89014",(702) 547-7777,457
+273,Super 8 by Wyndham Las Vegas North Strip/Fremont St,"1213 Las Vegas Blvd S, 89104",(702) 331-0545,151
+274,Tahiti All-Suite Resort *,"5101 W Tropicana Ave, 89103",(702) 284-7200,25
+275,Tahiti Village Resort & Spa *,"7200 Las Vegas Blvd S, 89119",(702) 440-6800,176
+276,Thunderbird Boutique Hotel,"1215 Las Vegas Blvd S, 89104",(702) 489-7500,72
+277,Town and Country Manor,"4311 Boulder Hwy, 89121",(702) 454-9393,143
+278,Town and Country Manor 1 1,"4360 Boulder Hwy, 89121",(702) 547-9393,90
+279,Town and Country Manor 1 1 1,"5390 Boulder Hwy, 89122",(702) 456-6844,205
+280,TownePlace Suites Las Vegas Airport South,"355 E Warm Springs Rd, 89119",(702) 916-2101,115
+281,TownePlace Suites Las Vegas City Center,"4920 Dean Martin, 89118",(702) 895-9979,111
+282,TownePlace Suites Las Vegas Henderson,"1471 Paseo Verde Pkwy, 89012",(702) 896-2900,108
+283,TownePlace Suites Las Vegas North 1-15,"4360 Nexus way, 89115",(725) 288-0900,119
+284,Traveler's Bed and Breakfast,"1502 Las Vegas Blvd S, 89104",(702) 385-0809,26
+285,Travelodge by Wyndham Las Vegas,"2830 Las Vegas Blvd S, 89109",(702) 735-4222,100
+286,Travelodge by Wyndham Las Vegas Airport No/Near The Strip,"5075 Koval Ln, 89119",(702) 736-3600,107
+287,"Treasure Island —Tl Hotel & Casino, a Radisson Hotel","3300 Las Vegas Blvd S, 89109",(702) 894-7111,"2,884"
+288,Tropicana Las Vegas - a DoubleTree by Hilton,"3801 Las Vegas Blvd S, 89109",(702) 739-2222,"1,470"
+289,TRU By Hilton Las Vegas Airport,"6862 Gilespie st, 89119",(702) 213-8300,166
+290,Trump International Hotel Las Vegas *,"2000 Fashion Show Dr, 89109",(702) 982-0000,940
+291,Tuscany Suites & Casino,"255 E Flamingo Rd, 89169",(702) 893-8933,716
+292,Vdara Hotel & Spa,"2600 W Harmon Ave, 89158",(702) 590-2111,"1,395"
+293,The Venetian Resort Las Vegas,"3355 Las Vegas Blvd S, 89109",(702) 414-1000,"4,029"
+294,Villa Inn,"225 Las Vegas Blvd S, 89101",(702) 382-3878,44
+295,Virgin Hotels Las Vegas,"4455 Paradise Rd, 89169",(702) 693-5000,"1,502"
+296,Walden Motel,"3085 E Fremont st, 89104",(702) 457-9090,10
+297,Waldorf Astoria Las Vegas,"3752 Las Vegas Blvd S, 89158",(702) 590-8888,392
+298,Westgate Flamingo Bay Resort *,"5625 W Flamingo Rd, 89103",(702) 252-6000,83
+299,Westgate Las Vegas Resort & Casino,"3000 Paradise Rd, 89109",(702) 732-5111,"2,812"
+300,The Westin Lake Las Vegas Resort & Spa,"101 Montelago Blvd, 89011",(702) 567-6000,493
+301,The Westin Las Vegas Hotel & Spa,"160 E Flamingo Rd, 89109",(702) 836-5900,826
+302,WorldMark By Wyndham - Las Vegas Tropicana *,"5275 W Tropicana Ave, 89103",(702) 818-1940,25
+303,Wyndham Grand Desert *,"265 E Harmon Ave, 89169",(702) 691-2600,87
+304,Wynn Las Vegas,"3131 Las Vegas Blvd S, 89109",(702) 770-7000,"2,716"
